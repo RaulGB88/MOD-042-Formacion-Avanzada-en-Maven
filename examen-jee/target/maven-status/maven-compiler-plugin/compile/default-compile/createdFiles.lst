@@ -1,0 +1,4 @@
+com\lm2a\examen\service\Horoscopo.class
+com\lm2a\examen\model\Usuario.class
+com\lm2a\examen\dao\UsuarioDAO.class
+com\lm2a\examen\web\UserServlet.class
